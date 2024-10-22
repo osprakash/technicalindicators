@@ -90,6 +90,7 @@ export function getAvailableIndicators () {
   AvailableIndicators.push('crossup');
   AvailableIndicators.push('crossdown');
   AvailableIndicators.push('crossover');
+  AvailableIndicators.push('supertrend');
   return AvailableIndicators;
 };
 

@@ -96,3 +96,4 @@ export  { crossUp, CrossUp }           from './Utils/CrossUp';
 export  { crossDown, CrossDown }       from './Utils/CrossDown';
 
 export  { setConfig, getConfig }       from './config'
+export { supertrend, SuperTrend } from './volatility/SuperTrend';
